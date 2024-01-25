@@ -48,10 +48,6 @@ As a BlokAv user, you are an integral part of this consensus-driven defense mech
 
 - **Vote on Files:** Express your opinion on the nature of suspicious files encountered by BlokAv. Your vote matters and contributes to the collective decision.
 
-- **Engage in Discussions:** Join discussions on our [Community Forum](link_to_forum) regarding specific threats or emerging trends. Share your insights and learn from the diverse perspectives within the BlokAv community.
-
-- **Stay Informed:** Follow the consensus outcomes on our [Blockchain Explorer](link_to_explorer) and stay informed about the evolving threat landscape.
-
 ## Get Involved
 
 BlokAv believes in the strength of a united community. Your active participation and contributions make the consensus model effective and resilient. Join us in shaping the future of collective cybersecurity defense!
