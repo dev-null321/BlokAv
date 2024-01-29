@@ -2,7 +2,7 @@
 
 ## Experiment Overview
 
-Welcome to the BlokAv security experiment—an avant-garde antivirus solution crafted to confront the ever-shifting landscape of cybersecurity threats. BlokAv is not your typical antivirus; it's a holistic cybersecurity platform leveraging blockchain, behavioral analysis, and advanced threat intelligence for robust protection against malicious entities.
+Welcome to the BlokAv security experiment—an avant-garde antivirus solution crafted to confront the ever-shifting landscape of cybersecurity threats. BlokAv is not your typical antivirus; it's a holistic cybersecurity platform leveraging blockchain, behavioral analysis, and advanced threat intelligence for robust protection against malicious entities. This is a pretty ambitious endavour, since most AV is done by corporations with large profit margins. The goal of this project is to implement a dynamic way for AV to utilize blockchain and automatically share the details with all users. This is definitely a work in progress. 
 
 ## Key Technical Features
 
