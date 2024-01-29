@@ -102,7 +102,7 @@ func AVScan(scanPath string) {
 	defer file.Close()
 
 	// Open the local file
-	localFilePath := "/Users/marq/Projects/blockav/mal-sha256.txt"
+	localFilePath := "enter path"
 
 	// Read the content of the local file
 	hashes, err := ioutil.ReadFile(localFilePath)
